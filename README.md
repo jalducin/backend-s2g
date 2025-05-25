@@ -147,6 +147,15 @@ docker run \
   Ejecuta manualmente el job de cambio de estado.
 
 ---
+## 👨‍💻 Autor
+
+**Elaborado por ISC Juan Valentín Alducin Vázquez**  
+📅 Mayo 2025  
+🔗 [GitHub](https://github.com/jalducin)
+## Git
+git add .
+git commit -m "Actualización BackendS2Energy"
+git push origin main
 
 ## Licencia
 
